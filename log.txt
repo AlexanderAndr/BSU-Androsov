@@ -1,0 +1,12 @@
+$ git log
+commit 8f15a7d177332889d50d4d9c349f4c7b74bd0788 (HEAD -> master)
+Author: Alexander <sasha.androsov.01@mail.ru>
+Date:   Tue Feb 11 22:53:29 2020 +0300
+
+    add task1
+
+commit c6c341da1a03ab956466fd916ac8e017ac395ec9
+Author: Alexander <sasha.androsov.01@mail.ru>
+Date:   Tue Feb 11 22:52:17 2020 +0300
+
+    add .gitignore
